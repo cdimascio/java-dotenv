@@ -38,5 +38,5 @@ The last version of java-env is `5.2.2`. It is available on MavenCentral and JCe
 ### Gradle
 
 ```groovy
-compile 'io.github.cdimascio:dotenv-kotlin:5.2.2'
+compile 'io.github.cdimascio:java-dotenv:5.2.2'
 ```
