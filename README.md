@@ -9,7 +9,7 @@
 ### Looking for a pure Java version see [dotenv-java](https://github.com/cdimascio/dotenv-java)
 
 <p align="left">
-	<a href="https://github.com/cdimascio/dotenv-java"><img src="https://raw.githubusercontent.com/cdimascio/dotenv-java/master/assets/java-dotenv.png" alt="dotenv-java" /></a>
+	<a href="https://github.com/cdimascio/dotenv-java"><img src="https://raw.githubusercontent.com/cdimascio/dotenv-java/master/assets/dotenv-java-logo.png" alt="dotenv-java" width="300" /></a>
 </p>
 
 ### Why?
