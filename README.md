@@ -25,7 +25,7 @@ The [dotenv-kotlin](https://github.com/cdimascio/dotenv-kotlin) project is almos
 
 ### Previous Versions of java-dotenv
 
-The last version of java-env is `5.2.2`. It is available on MavenCentral and JCenter
+The last version of java-dotenv is `5.2.2`. It is available on MavenCentral and JCenter
 ### Maven 
 ```xml
 <dependency>
