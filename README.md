@@ -23,9 +23,12 @@ The [dotenv-java](https://github.com/cdimascio/dotenv-java) project contains the
 The [dotenv-kotlin](https://github.com/cdimascio/dotenv-kotlin) project is almost identical to the previous java-dotenv package. The only difference is that its core is provided by [dotenv-java](https://github.com/cdimascio/dotenv-java). It continues to provide functionality similar to before and includes the Kotlin DSL
 
 
-### Previous Versions of java-dotenv
+### Latest versions of java-dotenv
 
 The last version of java-dotenv is `5.2.2`. It is available on MavenCentral and JCenter
+
+We recommend you use **dotenv-java** or **dotenv-kotlin** instead.
+
 ### Maven 
 ```xml
 <dependency>
