@@ -41,5 +41,5 @@ We recommend you use **dotenv-java** or **dotenv-kotlin** instead.
 ### Gradle
 
 ```groovy
-implentation 'io.github.cdimascio:java-dotenv:5.2.2'
+implementation 'io.github.cdimascio:java-dotenv:5.2.2'
 ```
